@@ -24,3 +24,5 @@ Add it to you server using: https://discord.com/api/oauth2/authorize?client_id=8
 .credits = gives credit to creator (me :) )
 
 **I will be adding more features in the future, such as being able to pause the music while playing and adding a music playing queue**
+
+![image](https://user-images.githubusercontent.com/58867391/167278787-9d76052f-c546-4352-81d6-3cdef062feda.png)
